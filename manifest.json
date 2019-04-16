@@ -1,10 +1,12 @@
 {
     "files": {
-        "index.js": "91e2ed77ca8ab35d84cc40d9040a562df9420066560154ddfcfc550cfcfb5957",
-        "module.json": "322f0cd122d3d707b27cfa014af99ec2c6d37ff6c1fac8a41c87ff14ebb70de0"
+        "index.js": "b4bed5bc452e661fb19a2f79c234acd765c1c865ef7c753c18d7360da43e9fc8",
+        "module.json": "8ed9e2762a35aeec314806c72f8ab63d2b8cbdc4e8f19a34e1d40fec24d1d984"
     },
     "defs": {
         "S_PREPARE_EXIT": 1,
-        "S_EXIT": 3
+        "S_EXIT": 3,
+        "S_PREPARE_RETURN_TO_LOBBY": 1,
+        "S_RETURN_TO_LOBBY": 1
     }
 }
