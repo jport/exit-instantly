@@ -8,6 +8,6 @@
 	"options": {
 		"niceName": "Exit Instantly"
 	},
-    "servers": ["https://raw.githubusercontent.com/teralove/exit-instantly/master/"],
-    "supportUrl": "https://github.com/teralove/exit-instantly/issues"
+    "servers": ["https://raw.githubusercontent.com/jport/exit-instantly/master/"],
+    "supportUrl": "https://github.com/jport/exit-instantly/issues"
 }
